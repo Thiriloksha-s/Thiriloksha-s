@@ -24,21 +24,29 @@
 
 ---
 
-### ⚙️ Tech Stack
+### 💻 Languages & Tools
 
 <div align="center">
+  
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="50"/>
+</div>
+
+---
+
+### 🌐 Familiar Tech Stack
+
+<div align="center">
   <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" width="60"/>
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="60"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" width="60"/>
 </div>
 
 ---
