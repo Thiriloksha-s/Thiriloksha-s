@@ -48,9 +48,6 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Thiriloksha_s?theme=dark&font=SourceCodePro&ext=contest)](https://leetcode.com/u/Thiriloksha_s/)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiriloksha-s&theme=algolia&show_icons=true&hide_border=false)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thiriloksha-s&bg_color=0d1117&color=5edb0a&line=58a6ff&point=fbf9fb&area=true&hide_border=true)
 
 </div>
